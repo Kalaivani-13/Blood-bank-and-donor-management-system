@@ -20,5 +20,5 @@ Password: Admin@123
 
 **************************Donor Credential**********************
 Username: abc
-Password: abc@123
+Password: Abc@123
 Or Register a new user.
